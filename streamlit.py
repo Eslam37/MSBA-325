@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import scipy as sp
+# import scipy as sp
 import chart_studio.plotly as py
 import plotly.figure_factory as ff
 import pandas as pd
